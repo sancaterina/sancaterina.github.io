@@ -4,24 +4,26 @@ layout: default
 
 ## Introduction
 
-Lorem ipsum dolor sit amet, consectetur adipisci elit, sed eiusmod tempor incidunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquid ex ea commodi consequat. Quis aute iure reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint obcaecat cupiditat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+I am a student of German Philology and English and American Studies. I spent 2019 at the University of Helsinki and took a course on Command Line, which is why this site exists.
 
 ## Find me on
 
-[LinkedIn](https://fi.linkedin.com/mouse-mousekewitz), [GitHub](https://github.com/mokewitz)
+[Github](https://github.com/sancaterina)
 
 ## Contact
 
-My email address is of the form first_name.last_name@helsinki.fi. 
+My email address is sandrahantsch@helsinki.fi. 
 
 ## Courses I've Taken
 
-[Enjoying Cheese I](https://courses.helsinki.fi/enjoying-cheese-I), fall 2018
+[Command line tools for Linguists](https://courses.helsinki.fi/en/kik-lg219/129824412), fall 2019
 
-[Feline Avoidance](https://courses.helsinki.fi/feline-avoidance), fall 2018
+[Sociolinguistics](https://courses.helsinki.fi/en/lda-g3106/130806664), fall 2019
 
 ## Projects
 
+Command line course 2019: Working with a Github [repository](https://github.com/sancaterina/cmdline-course).
+
 ## Misc. 
 
-[Gotta Love Cheese](https://en.wikipedia.org/wiki/Cheese) 
+[Other interesting stuff.](https://www.ted.com/) 

@@ -6,7 +6,7 @@ layout: default
 
 This course was aimed at students of linguistics that wanted to learn how to use basic command line tools for their research. It offered a short overview over various topics.
 Our _cheatsheet_:
-![Important command line commands](./assets/unix_commands.png)
+![Important command line commands](./assets/img/unix_commands)
 
 ## Week 1
 

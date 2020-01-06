@@ -6,7 +6,7 @@ layout: default
 
 This course was aimed at students of linguistics that wanted to learn how to use basic command line tools for their research. It offered a short overview over various topics.
 Our _cheatsheet_:
-![Important command line commands](https://www.tjhsst.edu/~dhyatt/superap/unixcmd.html)
+![Important command line commands](./assets/unix_commands.png)
 
 ## Week 1
 
@@ -38,11 +38,17 @@ We personalized our .bashrc and .bash_profile files to change our command line e
 
 ## Week 6
 
-Sudo was discussed in order to become the root user when giving commands. Most importantly this week, we installed software via _apt-get_ or _pip_. The command **pip3 install guess_language-spirit** installes a software that recognized the language of the text sample it received, even though it was not always correct.
+Sudo was discussed in order to become the root user when giving commands. Most importantly this week, we installed software via _apt-get_ or _pip_. The command **pip3 install guess_language-spirit** installes a software that recognizes the language of the text sample it received, even though it is not always correct.
 
 ## Week 7
 
-Week 7 was dedicated to Github, a website where you can access remote repositories for your projects. You can, for example, create a new repository or fork an existing one. To synchronize the remote and the local directories, we used **git add -A** (= add everything new) followed by **git commit -m ["some comment"]** (= commit with a message) and **git push origin [branch]** to finalize. It was also underlines, that the _pull_ command should not be forgotten, especially on joined projects.
+Week 7 was dedicated to Github, a website where you can access remote repositories for your projects. You can, for example, create a new repository or fork an existing one. To synchronize the remote and the local directories, we used 
+
+* **git add -A** (= add everything new) 
+* followed by **git commit -m ["some comment"]** (= commit with a message) 
+* and **git push origin [branch]** to finalize. 
+
+It was also underlined, that the _pull_ command should not be forgotten, especially on joined projects.
 
 ## Week 8 - final assignment
 

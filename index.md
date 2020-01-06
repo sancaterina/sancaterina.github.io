@@ -8,8 +8,7 @@ I am a student of German Philology and English and American Studies. I spent 201
 
 ## Find me on
 
-[Github](https://github.com/sancaterina)
-[Overleaf CV](https://www.overleaf.com/read/ddcqrdtpnhwf)
+[Github](https://github.com/sancaterina) / [Overleaf CV](./assets/documents/CV_overleaf.pdf)
 
 ## Contact
 

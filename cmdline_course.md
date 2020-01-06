@@ -16,8 +16,9 @@ Before we started, we had to get our command line environments up and running. I
 
 In this week, we learned how to handle (background) processes and also worked with files on a server. An essential command we learned was _chmod_, which can be used to change the permissions on a file or directory. With **chmod 755 [file or directory name]** execution permissions can be given for the current user, often resolving permission issues quickly.
 Exemplary chmod codes:
-| user    | group    | other    | result                   |
-| ---- |:-----:| -----:| ----------------------------:|
+
+| user | group | other | result |
+| ---- | ----- | ----- | ----- |
 | 7    | 0     | 0     | read, write and execute permission for owner, none for group and other |
 | 7    | 5     | 5     | same as above, but group and other can read and execute |
 | 4    | 4     | 4     | all can read only |
